@@ -1,4 +1,4 @@
-package com.todos.generated;
+package com.AllSafeInc.generated;
 
 import java.util.Arrays;
 import java.util.List;
